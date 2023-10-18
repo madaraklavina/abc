@@ -5,7 +5,8 @@
 #### 1. Aprakstīt spēli
 #### 2. Spēles loģika
 
-dators nejauši ģenerē vienu skaitli no 1 līdz 100 
+dators nejauši ģenerē vienu skaitli no 1 līdz 100 un piedāvā spēlētājam uzminēt skaitli
+spēles loģika aprakstīta šajā kodā:
 
 import random
 
