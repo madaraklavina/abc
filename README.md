@@ -8,6 +8,7 @@
 dators nejauši ģenerē vienu skaitli no 1 līdz 100 un piedāvā spēlētājam uzminēt skaitli
 spēles loģika aprakstīta šajā kodā:
 
+```py
 import random
 
 repeat = True
@@ -39,3 +40,7 @@ while repeat:
     else:
         repeat = False
         print("paldies par speli")
+
+```
+
+### 3. utt
