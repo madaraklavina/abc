@@ -10,4 +10,5 @@ if item_to_delete in shopping_list:
 else:
     print("item not in list")
 print(shopping_list)
+
 ```
